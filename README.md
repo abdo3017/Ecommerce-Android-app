@@ -1,6 +1,6 @@
 # Ecommerce App
 ## Description
-Android app that user can search for friends and chat with them from insta app like messenger.
+Android app that user can shopping in many categories.
 ## Covered topics
 shared preferences,material design,firestore , MVC. 
 
